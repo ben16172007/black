@@ -103,7 +103,7 @@ mysqli_close($conn);//關閉資料庫
 </div>
 <script>
   function backtoPreviousPage(){
-    window.location='index.php';
+    window.location='login.php';
 
   }
 </script>

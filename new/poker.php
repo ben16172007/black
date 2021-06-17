@@ -81,7 +81,7 @@ a, a:link, a:visited{
     
 	</div> 
 	<div id="logout">
-       <form method='post' action='index.php'>
+       <form method='post' action='login.php'>
        <input type='submit' value='logout'/>
 </form>
 </div>
